@@ -169,9 +169,6 @@ div.post-page div.content p {
 
 div.post-page div.content p img {
 	width: 100%;
-	/* display: block;
-	margin-left: auto;
-	margin-right: auto; */
 }
 
 div.edit-row {
@@ -194,6 +191,8 @@ a svg {
 	height: 20px;
 }
 
+/* React Quill editor using "Snow" theme */
+
 .ql-editor {
 	overflow-y: scroll;
 	resize: vertical;
@@ -205,7 +204,6 @@ a svg {
 	background: #fefcfc;
 }
 
-/* Snow Theme */
 .ql-snow.ql-toolbar {
 	display: block;
 	background: #eaecec;
