@@ -1,4 +1,4 @@
-# Blog using MERN stack
+# MERN stack blog
 
 ## Dependencies
 

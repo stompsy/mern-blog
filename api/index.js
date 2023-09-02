@@ -21,7 +21,7 @@ app.use(cookieParser());
 app.use('/uploads', express.static(__dirname + '/uploads'));
 
 mongoose.connect(
-	'mongodb+srv://blogadmin:8JiVn8SDg0G485oN@mern-blog.o38gtkh.mongodb.net/?retryWrites=true&w=majority'
+	'mongodb+srv://blogadmin:QpXAblRw68Jcg9sd@mern-blog.o38gtkh.mongodb.net/?retryWrites=true&w=majority'
 );
 
 // Register new author endpoint
