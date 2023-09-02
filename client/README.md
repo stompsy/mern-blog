@@ -1,3 +1,13 @@
-# Getting Started with Create React App
+# Packages
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+react
+react-router
+express
+mongoose
+cors
+bcryptjs
+cookie-parser
+jsonwebtoken
+multer
+react-quill
+react-time-ago
